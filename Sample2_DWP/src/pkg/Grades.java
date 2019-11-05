@@ -6,7 +6,7 @@ package pkg;
 /**
  * @author Patrick
  * Testing123
- *
+ * See if this works
  */
 public class Grades {
 	private int studentid = 12345;
