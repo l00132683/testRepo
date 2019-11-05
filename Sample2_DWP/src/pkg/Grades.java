@@ -12,6 +12,7 @@ public class Grades {
 	private int studentid = 12345;
 	private String moduleid = "DevOps";
 	private double grade = 0.0;
+	private String course = "BSc";
 	
 	public double getGrade() {
 		return grade;
